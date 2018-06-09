@@ -7,6 +7,7 @@ html::before {
   left: 0;
   border: 0 solid #000;
   transition: border 0.5s ease-in-out;
+  box-sizing: border-box;
 }
 
 html.lights-on::before {
