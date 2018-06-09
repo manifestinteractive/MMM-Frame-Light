@@ -1,0 +1,14 @@
+html::before {
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0 solid #000;
+  transition: border 0.5s ease-in-out;
+}
+
+html.lights-on::before {
+  border: 40px solid #FFF;
+}

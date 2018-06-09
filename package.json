@@ -1,0 +1,26 @@
+{
+  "name": "mmm-frame-light",
+  "version": "1.0.0",
+  "description": "Add Frame Light to Magic Mirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifestinteractive/MMM-Frame-Light.git"
+  },
+  "keywords": [
+    "magicmirror2",
+    "module",
+    "frame-light",
+    "mirror-light",
+    "light",
+  ],
+  "author": "Peter Schmalfeldt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manifestinteractive/MMM-Frame-Light/issues"
+  },
+  "homepage": "https://github.com/manifestinteractive/MMM-Frame-Light#readme"
+}
