@@ -12,11 +12,11 @@ To use this module, add the following configuration block to the modules array i
 
 ```js
 var config = {
-    modules: [
-        {
-            module: 'MMM-Frame-Light'
-        }
-    ]
+  modules: [
+    {
+      module: 'MMM-Frame-Light'
+    }
+  ]
 }
 ```
 
