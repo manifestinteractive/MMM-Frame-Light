@@ -12,7 +12,7 @@ Module.register('MMM-Frame-Light', {
 
 	getStyles: function () {
 		return [
-			'mmm-frame-light.css',
+			'MMM-Frame-Light.css',
 		];
 	},
 

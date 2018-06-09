@@ -6,6 +6,13 @@ Add Frame Light to Magic Mirror.  This will add a 40px wide band around the edge
 
 ![screenshot](https://peter.build/magic-mirror/mmm-frame-light.gif)
 
+## Installation
+
+```bash
+cd /home/pi/MagicMirror
+git clone https://github.com/manifestinteractive/MMM-Frame-Light ./modules/MMM-Frame-Light
+```
+
 ## Using the module
 
 To use this module, add the following configuration block to the modules array in the `config/config.js` file:

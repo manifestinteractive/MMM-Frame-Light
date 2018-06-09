@@ -1,5 +1,5 @@
 {
-  "name": "mmm-frame-light",
+  "name": "MMM-Frame-Light",
   "version": "1.0.0",
   "description": "Add Frame Light to Magic Mirror",
   "main": "index.js",
